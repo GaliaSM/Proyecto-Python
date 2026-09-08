@@ -1,4 +1,5 @@
 # Proyecto-Python
+
 En este proyecto encontrará las soluciones a los ejercicios Katas de Python plantedas en el Modulo de Python
 
 # 🐍 PROYECTO LÓGICA: Katas de Python
@@ -7,19 +8,19 @@ Repositorio dedicado a la práctica, resolución y recopilación de ejercicios d
 
 A lo largo de la solución de cada problema se aplicaron los conceptos fundamentales de programación, estructuras condicionales, estructuras de iteración, aplicación de funciones sobre tipos de datos iterables como son las listas, las tuplas y los diccionarios, para finalmente realizar programación orientada a objetos, definiendo las clases y aplicando los metodos desarrollados.
 
----
+
 
 ## 📂 Estructura del Repositorio
 
 Los ejercicios están organizados de la siguiente manera:
 
-```text
+
 📦 proyecto-python/
  ┣ 📂 Soluciones/        # Carpeta que agrupa todos los programas .py correspondientes a cada ejercicio
  ┣ proyectoPython.ipynb  # Archivo con todos los ejercicios, donde se identifican con el numero del problema y el encunciado del mismo
  ┗ 📜 README.
  
- ---
+ 
  
  ## ⚙️ Proceso de desarrollo
  
@@ -30,13 +31,12 @@ Los ejercicios están organizados de la siguiente manera:
  
  En un principio se trabajo en un archivo con extensión .ipynb como se hacian a lo largo del módulo, el cual está entregado en el repositorio. Pero también se están entregando archivos .py por cada ejercicio como lo exigen en la documentación.
  
- ---
  
  ## 🔀 Requisitos previos
+ 
  Se trabajo con Python 3.12 y como editor Visual Studio Code
  
- ---
- 
+
  ## 🐍 Dificultades encontradas
  
  - A lo largo del desarrollo de los problemas, algunas dificultades generales se presentaron con el sangrado de las instrucciones en python, aunque el editor me ayudaba en algunas ocaciones me equivocaba y ese era el error que me indicaba, aprendí a corregirlo y con la práctica a medida que avance desaparecio este tipo de error.
@@ -50,6 +50,6 @@ Los ejercicios están organizados de la siguiente manera:
  
  - Finalmente el pase de parametros variable, al principio me causo un poco de confución porque se requeria llamar a las funciones especificas para el procesar texto, luego que realice el primero ya fue mas fácil agregar todos los parametros que se requerian según el proceso que se estaba llamando.
  
- ---
- 👤 Autor
- Galia
+ 
+## 👤 Autor
+Proyecto realizado por  Galia Sidahmed Merino
