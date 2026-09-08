@@ -18,7 +18,7 @@ Los ejercicios están organizados de la siguiente manera:
 📦 proyecto-python/
  ┣ 📂 Soluciones/        # Carpeta que agrupa todos los programas .py correspondientes a cada ejercicio
  ┣ proyectoPython.ipynb  # Archivo con todos los ejercicios, donde se identifican con el numero del problema y el encunciado del mismo
- ┗ 📜 README.
+ ┗ 📜 README.md
  
  
  
